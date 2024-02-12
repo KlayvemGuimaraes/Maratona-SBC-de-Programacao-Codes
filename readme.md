@@ -13,7 +13,8 @@
 
     > Aluno da Etec Abdias do Nascimento🎒
 
-[Clique aqui para acessar meu perfil no beecrowd](https://judge.beecrowd.com/pt/profile/699064)
+[Clique aqui para acessar meu perfil no beecrowd (Klayvem)](https://judge.beecrowd.com/pt/profile/699064)
+[Clique aqui para acessar meu perfil no beecrowd (Rayssa)](https://judge.beecrowd.com/pt/profile/746470)
 
 ## 🚀 Tecnologias
 
