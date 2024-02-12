@@ -22,6 +22,12 @@
 
 ## 🧑🏻‍💻 Contato
 
+#### KLAYVEM
+
 Email : klayvemguik@gmail.com </br>
 LinkedIn : https://www.linkedin.com/in/klayvemguimaraes/
 
+#### RAYSSA 
+
+Email : brayssa17@gmail.com </br>
+LinkedIn : https://www.linkedin.com/in/rayssabuarque/
