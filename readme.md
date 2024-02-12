@@ -2,8 +2,9 @@
 <h1 align="center"> Maratona de Programação SBC </h1>
 
 <div align="center">
-<img width="250px" src="images\imageMarathon(1).jpeg"></img>
-<img width="250px" src="images\imageMarathon(2).jpeg"></img>
+<img width="200px" src="images\imageMarathon(1).jpeg"></img>
+<img width="200px" src="images\imageMarathon(2).jpeg"></img>
+<img width="355px" src="images\imageMarathon(3).png"></img>
 </div>
 
 <h4>É com grande satisfação que compartilho com vocês minha participação na pré-temporada (fase zero) da Maratona SBC de Programação, que aconteceu em 17 de Junho de 2023, promovida pelo beecrowd. Ao longo desse desafio enriquecedor, tive a oportunidade de testar minhas habilidades nas linguagens, Javascript e Python, alcançando a 22ª posição, juntamente com a Rayssa Buarque, que ficou em 23ª, isso tudo no ranking internacional da maratona🎉🤓</h4>
